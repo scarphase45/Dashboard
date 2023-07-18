@@ -1,0 +1,9 @@
+.container {
+    display: inline;
+    padding-left: 3rem;
+}
+
+
+.container h1 {
+    margin-left: .7rem;
+}    
