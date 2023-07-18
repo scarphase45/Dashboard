@@ -1,6 +1,6 @@
 import SideNavBar from "./Components/SideNavBar/SideNavBar";
 import Apps from "./Components/Dashboard/dashboard";
-// import TopContent from "./Components/NavBar/navBar";
+import React from "react";
 import './App.scss'
 
 function App() {
